@@ -10,5 +10,8 @@ public class ChickenRoll implements FoodItems{
     @Override
     public void foodLover() {
         System.out.println("Food is Chicken Roll");
+        System.out.println("Food is Chicken Roll");
+        System.out.println("Food is Chicken Roll");
+        System.out.println("Food is Chicken Roll");
     }
 }

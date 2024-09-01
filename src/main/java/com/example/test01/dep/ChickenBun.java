@@ -9,5 +9,8 @@ public class ChickenBun implements FoodItems{
     @Override
     public void foodLover() {
         System.out.println("Food is Chicken Bun ");
+        System.out.println("Food is Chicken Bun ");
+        System.out.println("Food is Chicken Bun ");
+
     }
 }

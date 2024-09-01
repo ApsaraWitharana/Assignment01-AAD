@@ -9,5 +9,7 @@ public class FishPastry implements FoodItems{
     @Override
     public void foodLover() {
         System.out.println("Food is fish pastry");
+        System.out.println("Food is fish pastry");
+
     }
 }
